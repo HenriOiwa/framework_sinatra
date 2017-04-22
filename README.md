@@ -4,7 +4,9 @@ Este projeto tem como intuito apenas aprendizado.
 Seu objetivo é subir para web um formulário simples usando o framework Sinatra.
 
 ### Subindo o formulário
-Primeiramente vamos clona-lo. No terminal navegue até a pasta onde se deseje salvar o projeto e digite o código:
+Primeiramente vamos clona-lo. 
+
+No terminal navegue até a pasta onde se deseje salvar o projeto e digite o código:
 
 $ git clone https://github.com/HenriOiwa/framework_sinatra.git 
 
