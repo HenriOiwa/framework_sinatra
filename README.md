@@ -1,4 +1,4 @@
-# Formulario
+﻿# Formulario
 Este projeto tem como intuito apenas aprendizado. 
 Seu objetivo é subir para web um formulário simples usando o framework Sinatra.
 
