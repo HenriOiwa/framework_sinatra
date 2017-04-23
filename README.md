@@ -17,7 +17,7 @@ Entre na pasta do projeto:
 $ cd framework_sinatra 
 
 
-E para evitar conflitos de versões, vamos utilizar o bundler:
+Para evitar conflitos de versões, vamos utilizar o bundler:
 
 
 $ bundle install 
